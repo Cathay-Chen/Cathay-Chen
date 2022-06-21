@@ -15,23 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
 [![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=8B4513&logo=rss&logoColor=white)](https://www.chenguotai.com/)
 
-</div>
+---
 
-<div align="center">
+![PHP](https://img.shields.io/badge/-PHP-%233776ab?logo=php&style=for-the-badge&logoColor=white)
+![Yii](https://img.shields.io/badge/-Yii-%23092E20?logo=yii&style=for-the-badge&logoColor=white&color=006400)
+![GO](https://img.shields.io/badge/-Golang-%233776ab?logo=go&style=for-the-badge&logoColor=white&color=D2691E)
+
+---
+
   
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cathay-Chen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cathay-Chen&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-  
-</div>
-  
-<div align="center">
 
-![PHP](https://img.shields.io/badge/-Python-%233776ab?logo=php&style=for-the-badge&logoColor=white)
-![Yii](https://img.shields.io/badge/-Django-%23092E20?logo=yii&style=for-the-badge&logoColor=white&color=006400)
-![GO](https://img.shields.io/badge/-Swift-%233776ab?logo=go&style=for-the-badge&logoColor=white&color=D2691E)
-
-</div>
