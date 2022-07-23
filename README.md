@@ -2,9 +2,9 @@
 
 这里是我的一些介绍
 
-- 🔭 在育儿网从事 PHP/Go 相关开发工作
-- 🌱 目前正在学习 golang 
-- 💬 可以向我询问一些关于 PHP 的问题
+- 🔭 从事 PHP/Go 服务端相关开发工作
+- 🌱 目前正在学习不够熟练的 Go  
+- 💬 可以向我询问一些关于服务端开发一些的问题
 - 📫 可以通过这个邮箱联系我：cathaycchen@gmail.com
 - :tiger:  个人主页：www.chenguotai.com
 
