@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-我是 Cathay Chen，一名专注 后端架构、高并发系统、智能体工程化（Agent）与自动化平台 的软件工程师。
-在实际工作中，我特别热衷于使用 Claude Code 提升工程效率、重构复杂代码、自动化日常任务，并探索 AI 在架构设计与系统工程中的应用边界。
-	•	🔧 擅长 Python / PHP / Go 的后端开发与架构设计
-	•	🧱 熟悉 微服务架构、分布式任务调度、容器化、CI/CD、数据采集系统
-	•	🤖 长期实践 Claude Code 在开发、重构、工具链集成与 Agent 思维建模中的应用
-	•	⚙️ 关注 架构可观测性、可维护性、工程效率、自动化 等工程质量体系
-	•	📫 联系方式：cathaycchen@gmail.com
-	•	🏠 个人主页：https://www.chenguotai.com
+我是 Cathay Chen，一名专注 后端架构、自动化平台、高并发系统构建 的软件工程工程师。
+目前正深入学习 Agent（智能体）相关技术与工程化实践，并长期关注 AI Coding（特别是 Claude Code） 在实际开发、重构与系统设计中的应用。
+
+- 🔧 技术方向：Python / PHP / Go 后端开发与架构设计
+- 🧱 工程能力：微服务架构、容器化、CI/CD、分布式任务调度
+- 🤖 正在深入：Agent 智能体构建、任务链路设计、工具调度、AI 辅助开发
+- 💡 兴趣重点：探索 Claude Code 如何提升代码质量、开发效率与工程决策
+- 📫 联系方式：cathaycchen@gmail.com
+- 🏠 个人主页：https://www.chenguotai.com
 
 ![snake](./assets/github-contribution-grid-snake.svg)
  
