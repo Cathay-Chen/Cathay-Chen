@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="20" role="img" aria-label="OpenClaw">
+  <title>OpenClaw</title>
+  <rect width="112" height="20" fill="#111827"/>
+  <g transform="translate(7 4)" fill="none" stroke="#ffffff" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 10.5c1.6-2.7 4.7-3.8 8.5-2.2"/>
+    <path d="M3.2 6.5 1.5 2.2"/>
+    <path d="M6.4 5.4 6.1 1.2"/>
+    <path d="M9.5 6.2 11.7 2"/>
+    <path d="M4.6 10.6c1.6.9 3.6.9 5.3 0"/>
+  </g>
+  <text x="25" y="14" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">OpenClaw</text>
+</svg>
