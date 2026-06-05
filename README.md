@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="./assets/badge-codex.svg" alt="Codex" />
-  <img src="./assets/badge-openclaw.svg" alt="OpenClaw" />
 </p>
 
 ## What I'm Exploring
