@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -28,7 +28,6 @@ jobs:
             ./assets/github-contribution-grid-snake.gif
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
-          branch: master
           message: "Generate Contribution Snake"
